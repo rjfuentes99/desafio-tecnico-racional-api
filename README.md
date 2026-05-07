@@ -659,17 +659,6 @@ Se implementan triggers para:
 
 ---
 
-## 📞 Contacto
-
-**Desarrollador**: [Tu Nombre]  
-**Email**: tu.email@example.com  
-**GitHub**: github.com/tu-usuario
-
----
-
-## 📄 Licencia
-
-MIT
 
 ---
 
